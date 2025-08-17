@@ -64,7 +64,8 @@ plt.show()
 # 🔍 Predict Single Image
 # Update this path to any image you want to test
 img_path = r"C:\Programming\dataset\test\Apple Golden 1\73_100.jpg"                 # Apple
-
+img_path = r"C:\Programming\dataset\test\Banana 1\13_100.jpg"                       #Banana          
+img_path =r"C:\Programming\dataset\test\Orange 1\3_100.jpg"                          #Orange
 if not os.path.exists(img_path):
     raise FileNotFoundError(f"Image not found: {img_path}")
 
@@ -77,3 +78,4 @@ class_names = ['apple', 'banana', 'orange']
 predicted_class = class_names[np.argmax(prediction)]
 
 print("Predicted class:", predicted_class)
+
