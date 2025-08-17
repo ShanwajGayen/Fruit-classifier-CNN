@@ -17,12 +17,11 @@ python predict_image.py
   example:[img_path = r"C:\Programming\dataset\test\Apple Golden 1\73_100.jpg"]     
           python CNN.py
 
-## 🛠️ Installation
-  [pip install -r requirements.txt]
+## 🛠️ Installation:-  *[pip install -r requirements.txt]*
 
-🖼️*Accuracy Plot*
 
-accuracy_plot.png:-
+
+🖼️**Accuracy Plot**
 <img width="1850" height="895" alt="P2_run_complete" src="https://github.com/user-attachments/assets/2e0bb8fa-f21a-48f7-ab06-c19d245ec61d" />
 <img width="1878" height="953" alt="P2_run" src="https://github.com/user-attachments/assets/0a9c22a8-a8c6-45ae-8557-8844248c71dd" />
 <img width="1731" height="797" alt="P1_run" src="https://github.com/user-attachments/assets/75ff7f77-a9e1-46f5-9cd0-edfa943c8b06" />
