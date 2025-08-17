@@ -21,6 +21,7 @@ python predict_image.py
   [pip install -r requirements.txt]
 
 🖼️*Accuracy Plot*
+
 accuracy_plot.png:-
 <img width="1850" height="895" alt="P2_run_complete" src="https://github.com/user-attachments/assets/2e0bb8fa-f21a-48f7-ab06-c19d245ec61d" />
 <img width="1878" height="953" alt="P2_run" src="https://github.com/user-attachments/assets/0a9c22a8-a8c6-45ae-8557-8844248c71dd" />
